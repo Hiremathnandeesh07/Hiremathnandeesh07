@@ -1,6 +1,6 @@
 - 👋 **Hi, I’m @Hiremathnandeesh07**
 - 👀 I’m interested in web development.
-- 🌱 I’m learnt Front-end development,currently learning Back-end.
+- 🌱 I had learnt Front-end development,currently learning Back-end.from 
 
 
 <!---
