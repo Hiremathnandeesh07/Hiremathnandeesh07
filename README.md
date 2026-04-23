@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a very Exciting project<br>👯 I’m looking to collaborate.<br>🌱 I’m currently learning Full Stack Development <br>
+Software Engineer @ ACUVATE
 
 
 ## 🌐 Socials:
